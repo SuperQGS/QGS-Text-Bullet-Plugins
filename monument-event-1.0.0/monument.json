@@ -1,0 +1,14 @@
+{
+  "id": "monument",
+  "weight": "1",
+  "rooms": {
+    "main": {
+      "id": "main",
+      "title": "the monument", 
+      "body": "a colossal structure reaches for the sky, its surface a translucent and deep purple. it is cool to the touch, and at eye level, an engraving has been etched roughly into the hard rock.<span class=\"doc\">A SEPULCHER EAST, AT OCEAN'S EDGE. <br> FROM ABOVE, WREST THOSE BELOW <br> TO EMBARK ON ENDLESS JOURNEY. <br><br> MUNDUS</span>",
+      "btns": [
+        "leave"
+      ]
+    }
+  }
+}
